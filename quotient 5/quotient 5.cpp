@@ -1,5 +1,12 @@
 // quotient 5.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+Write a C++ program that prompts the user to enter an integer
+representing an elapsed time in seconds and then displays it in the
+format “WW week(s) DD day(s) HH hour(s) MM minute(s) and SS
+second(s)”. For example, if the user enters the number 2000000, the
+message “3 week(s) 2 day(s) 3 hour(s) 33 minute(s) and 20 second(s)”
+must be displayed
+*/
 
 #include <iostream>
 
